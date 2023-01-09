@@ -1,14 +1,7 @@
-# ipDragon
-      
-#COMMAND 
-       
+1. instagram_information_gathering
+2. ANDROID SCREEN UNLOCKER
+3. PHISHING ATTACKS
+4. WIRELESS ATTACKS
+5. ANDROID DESTROYER
 
-    git clone https://github.com/DRAGONNKN/ipDragon.git
-     
-       Cd ipDragonn
-       
-       Python3 ipDragonn.py
-   
-
- 
-#enjoy all friends 
+ALL IN ONE TOOL
