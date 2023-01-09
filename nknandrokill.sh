@@ -10,12 +10,7 @@ Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
-_   _ _  ___   _
-| \ | | |/ / \ | |
-|  \| | ' /|  \| |
-| |\  | . \| |\  |
-|_| \_|_|\_\_| \_|
-       Made by Dragonnkn
+       Made by Dragonnkn 
        
        
 clear
@@ -30,6 +25,7 @@ sleep 2.0
 
     echo " "
     echo -e "$Red                               ⫸ Coded by$Yellow N_K_N_17_ $Red ⫷\033[0m"
+    echo -e "$Yellow                            ~ INSTAGRAM : N_K_N_17_ $Yellow ~\033[0m"
     echo -e "$Red                               ⫸$Yellow CYBER-D $Yellow ⫷\033[0m"
 echo " "
 echo -e " $Yellow       ||----------------------------$Cyan [features] $Blue ---------------------------||"
