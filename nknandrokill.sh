@@ -19,12 +19,12 @@ apt-get upgrade
 apt-get install python
 apt-get install python2
 clear
-echo -e "$Green Created By \e[1;34m"
-       NKN17 | lolcat
+echo -e "$Green Created By NKN \e[1;34m"
+       
 sleep 2.0
 
     echo " "
-    echo -e "$Red                               ⫸ Coded by$Yellow N_K_N_17_ $Red ⫷\033[0m"
+    echo -e "$Red                               ⫸ Coded by$Yellow DRAGON_NKN $Red ⫷\033[0m"
     echo -e "$Yellow                            ~ INSTAGRAM : N_K_N_17_ $Yellow ~\033[0m"
     echo -e "$Red                               ⫸$Yellow CYBER-D $Yellow ⫷\033[0m"
 echo " "
